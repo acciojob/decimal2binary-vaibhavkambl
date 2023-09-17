@@ -1,4 +1,4 @@
-function decimalToBinary(num) {
+function decimalToBinary(decimal) {
   //Write you code here
   if (decimal === 0) {
         return "0"; // Special case for 0
